@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tehlu Wonde  Tehlu@git.training  @awesomejt
 
 # THANKS
 
