@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 There are different ways to contribute, call or email for details
+
+### Copyright
+2020 Git.Training. 
