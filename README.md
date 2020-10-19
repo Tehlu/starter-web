@@ -13,4 +13,4 @@ There are different ways to contribute, call or email for details.
 Essentially, you fork this repo and issue pull requests for review.
 
 ### Copyright
-2020 Git.Training. 
+2020 Git.Training. All rights reserved.
